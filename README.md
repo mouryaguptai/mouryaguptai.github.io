@@ -1,2 +1,2 @@
-# devallasaitej.github.io
+# mouryaguptai.github.io
 Personal Portfolio Website
